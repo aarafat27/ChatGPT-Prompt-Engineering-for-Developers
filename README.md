@@ -1,4 +1,6 @@
-# 🤖 ChatGPT Prompt Engineering for Developers
+
+🤖 ChatGPT Prompt Engineering for Developers
+# ![5-88dc-9b54fd22c390](https://github.com/aarafat27/ChatGPT-Prompt-Engineering-for-Developers/assets/99079792/cb986eee-a878-4efb-9a80-839a6deb79e2)
 
 # ✍️ What you’ll learn in this course?
 In ChatGPT Prompt Engineering for Developers, you will learn how to use a large language model (LLM) to quickly build new and powerful applications.  Using the OpenAI API, you’ll be able to quickly build capabilities that learn to innovate and create value in ways that were cost-prohibitive, highly technical, or simply impossible before now.
